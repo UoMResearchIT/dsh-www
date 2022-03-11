@@ -1,3 +1,3 @@
 # dsh-www
 
-Externally facing website @ http://www.digital-solutions.uk/
+Externally facing website for the NERC Digital Solutions Hub @ http://www.digital-solutions.uk/
