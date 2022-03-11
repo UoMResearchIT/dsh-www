@@ -34,7 +34,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item"><a href="index.php" class="nav-link text-white">Home</a></li>
+                <li class="nav-item"><a href="/" class="nav-link text-white">Home</a></li>
                 <li class="nav-item"><a href="background.php" class="nav-link text-white">Background</a></li>
                 <li class="nav-item"><a href="team.php" class="nav-link text-white">Team</a></li>
                 <li class="nav-item"><a href="jobs.php" class="nav-link text-white">Jobs</a></li>
